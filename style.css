@@ -1,0 +1,20 @@
+
+      body{
+
+         font-family: 'Rubik',sans-serif;
+         font-weight: 300;
+         font-size: 15px;
+      }
+
+      input{
+        border: solid 1px rgb(187, 187, 187);
+        height: 35px;
+        padding:  8px !important; 
+        width: 100%;
+      }
+
+      input:focus{
+         border: 1px red solid !important;
+         outline: none;
+         box-shadow: rgb(255, 192, 192) 0px 0px 0px 3px;
+      }
